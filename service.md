@@ -9,6 +9,6 @@ Unser personalisierter Large Language Model (LLM) Service ist eine innovative L�
 ![vscode](https://source.unsplash.com/800x60/?vscode)
 
 Unser Service bietet eine breite Palette von Vorteilen, einschließlich der Optimierung von Arbeitsprozessen, der Steigerung der Kundenzufriedenheit und der Kosteneinsparungen. Indem wir Ihr LLM mit eigenen Trainingsdaten füttern, können wir eine personalisierte Lösung erstellen, die speziell auf die Bedürfnisse Ihres Unternehmens zugeschnitten ist.
-![vscode](https://source.unsplash.com/900x60/?vscode)
+![coding](https://source.unsplash.com/800x60/?coding)
 
 Unsere Lösung automatisiert Routineaufgaben und steigert die Effizienz Ihrer Arbeitsprozesse, indem sie unstrukturierte Daten wie E-Mails, Textnachrichten und Social-Media-Posts verarbeitet und analysiert. Dadurch können Sie Zeit sparen und Ihre Ressourcen
